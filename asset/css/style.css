@@ -109,3 +109,15 @@ footer li:before {
     border: 2px solid rgba(251, 140, 0, 0.87);
     border-radius: 50%;
 }
+
+.is-fullheight{
+    background: linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+    ), url('https://unsplash.it/1200/900?random') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
